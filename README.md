@@ -3,7 +3,7 @@
 # Viral Memecoin Website Template
 
 A vibrant and modern **crypto landing page template** built for promoting viral memecoins and community-driven token projects.  
-This design focuses on excitement, clarity, and trust — perfect for showcasing new Web3 launches or meme-inspired digital assets.
+This design focuses on excitement, clarity, and trust- perfect for showcasing new Web3 launches or meme-inspired digital assets.
 
 ---
 
